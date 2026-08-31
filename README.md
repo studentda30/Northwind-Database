@@ -69,13 +69,10 @@ You should see:
 
 Northwind
 
-🔗 Original Microsoft Source
-
-This project is based on Microsoft's official Northwind sample database.
-
-Microsoft Northwind SQL Script
-Microsoft Northwind Documentation
-Microsoft SQL Server Samples Repository
+🔗 Useful Resources
+Microsoft Northwind SQL Script — [instnwnd.sql](https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/northwind-pubs/instnwnd.sql)
+Microsoft Northwind Documentation — [Microsoft Learn View Northwind Documentation](https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/northwind-sample-database)
+Microsoft SQL Server Samples Repository- [https://github.com/microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples)
 📊 What You Can Practice
 
 This database is suitable for practicing:
